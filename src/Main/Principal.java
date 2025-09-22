@@ -20,7 +20,6 @@ public class Principal {
 		LogicaMetodos imp = new LogicaMetodos();
 		
 		do {
-			System.out.println("Inicio");
 			System.out.println("MENU PRINCIPAL");
 			System.out.println("1--AGREGAR");
 			System.out.println("2--MOSTRAR");
